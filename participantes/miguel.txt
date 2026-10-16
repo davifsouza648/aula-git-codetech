@@ -1,0 +1,3 @@
+nome: Miguel tambolim
+curso: BCC
+comida favorita: açaí com leite ninho leite condensado banana nutella
